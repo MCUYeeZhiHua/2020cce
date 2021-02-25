@@ -1,6 +1,6 @@
 # 2020cce
 
-## 第一題
+## 進階題：分式化簡
 ```C
 #include <stdio.h>
 int main()
@@ -19,7 +19,7 @@ int main()
 }
 ```
 
-## 第二題
+## 進階題：讀入整數反序列印
 ```C
 #include <stdio.h>
 int main()
@@ -39,7 +39,7 @@ int main()
 }
 ```
 
-## 第三題
+## 進階題：A的B次方函數
 ```C
 #include <stdio.h>
 int MYPOWER(int x,int y)
@@ -63,7 +63,7 @@ int main(void)
 }
 ```
 
-## 第四題
+## 進階題：漸增數列相加
 ```C
 #include <stdio.h>
 int main()
@@ -81,7 +81,7 @@ int main()
 }
 ```
 
-## 第五題
+## 基礎題：找零錢
 ```C
 #include <stdio.h>
 int main()
@@ -92,7 +92,7 @@ int main()
 }
 ```
 
-## 第六題
+## 基礎題：因數個數 
 ```C
 #include <stdio.h>
 int main()
@@ -111,7 +111,7 @@ int main()
 }
 ```
 
-## 第七題
+## 基礎題：找倍數
 ```C
 #include <stdio.h>
 int main()
@@ -126,7 +126,7 @@ int main()
 }
 ```
 
-## 第八題
+## 基礎題：整數轉換為等級 
 ```C
 #include <stdio.h>
 int main()
